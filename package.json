@@ -1,0 +1,14 @@
+{
+  "name": "cookielab",
+  "version": "0.0.0",
+  "description": "An easter-egg Cookielab.io package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cookielab"
+  ],
+  "author": "Ondrej Hajny <ondrej@cookielab.io>",
+  "license": "ISC"
+}
